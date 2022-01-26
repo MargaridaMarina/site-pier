@@ -1,0 +1,123 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?7d24zf');
+  src:  url('fonts/icomoon.eot?7d24zf#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?7d24zf') format('truetype'),
+    url('fonts/icomoon.woff?7d24zf') format('woff'),
+    url('fonts/icomoon.svg?7d24zf#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-close:before {
+  content: "\e904";
+}
+.icon-facebook:before {
+  content: "\e906";
+}
+.icon-instagram:before {
+  content: "\e909";
+}
+.icon-mail:before {
+  content: "\e90c";
+}
+.icon-map-pin:before {
+  content: "\e90d";
+}
+.icon-menu:before {
+  content: "\e90e";
+}
+.icon-whatsapp:before {
+  content: "\e90f";
+}
+.icon-layers:before {
+  content: "\e901";
+}
+.icon-tools:before {
+  content: "\e902";
+}
+.icon-measure:before {
+  content: "\e902";
+}
+.icon-design:before {
+  content: "\e902";
+}
+.icon-ruler:before {
+  content: "\e902";
+}
+.icon-pencil:before {
+  content: "\e902";
+}
+.icon-documents1:before {
+  content: "\e903";
+}
+.icon-files1:before {
+  content: "\e903";
+}
+.icon-papers1:before {
+  content: "\e903";
+}
+.icon-document:before {
+  content: "\e907";
+}
+.icon-files2:before {
+  content: "\e905";
+}
+.icon-stack:before {
+  content: "\e905";
+}
+.icon-papers2:before {
+  content: "\e905";
+}
+.icon-files3:before {
+  content: "\e908";
+}
+.icon-arrow-up:before {
+  content: "\e912";
+}
+.icon-camera:before {
+  content: "\e900";
+}
+.icon-home:before {
+  content: "\e90a";
+}
+.icon-phone:before {
+  content: "\e90b";
+}
+.icon-profile-male:before {
+  content: "\e911";
+}
+.icon-profile-female:before {
+  content: "\e910";
+}
+.icon-female:before {
+  content: "\e910";
+}
+.icon-woman:before {
+  content: "\e910";
+}
+.icon-user:before {
+  content: "\e910";
+}
+.icon-profile:before {
+  content: "\e910";
+}
+.icon-avatar:before {
+  content: "\e910";
+}
